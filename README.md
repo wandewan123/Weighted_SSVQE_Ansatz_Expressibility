@@ -1,7 +1,7 @@
 # Datasets for: Ansatz-Dependent Role of Weighting Factors in Weighted SSVQE
-[![Python](https://shields.io)](https://python.org)
-[![Framework](https://shields.io)](https://pennylane.ai)
-[![License](https://shields.io)](https://opensource.org)
+<a href="https://python.org"><img src="https://shields.io" alt="Python"></a>
+<a href="https://pennylane.ai"><img src="https://shields.io" alt="Framework"></a>
+<a href="https://opensource.org"><img src="https://shields.io" alt="License"></a>
 
 This repository contains the numerical datasets and simulation logs supporting the manuscript:
 > **Ansatz-Dependent Role of Weighting Factors in the Weighted Subspace-Search Variational Quantum Eigensolver**

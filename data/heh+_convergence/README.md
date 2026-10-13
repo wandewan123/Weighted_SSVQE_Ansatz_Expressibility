@@ -1,4 +1,4 @@
-# Helium Hydride Ion (HeH⁺) Optimization Logs (`data/konvergensi heh+/`)
+# Helium Hydride Ion (HeH⁺) Convergence Logs (`data/heh+_convergensi/`)
 
 This folder contains the verification data for the heteronuclear **Helium Hydride molecular ion (HeH⁺)**, evaluating the algorithmic generalizability and physical symmetry conservation of the Weighted SSVQE framework across different optimization configurations.
 

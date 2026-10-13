@@ -7,8 +7,8 @@ Each `.csv` file contains 5,000 statistical fidelity samples collected over 30 i
 
 ### Columns Definition:
 * **`trial`**: The index of the independent computational run (1 to 30) to ensure statistical robustness.
-* **`L`**: The parameterized quantum circuit depth / number of repeated layers (\(L \in \{1, 2, 3, 4, 5\}\)).
-* **`KL`**: The calculated Kullback-Leibler divergence value (\(D_{KL}\)). Lower values signify higher expressibility approaching a unitary 2-design.
+* **`L`**: The parameterized quantum circuit depth / number of repeated layers ($L \in \{1, 2, 3, 4, 5\}$).
+* **`KL`**: The calculated Kullback-Leibler divergence value ($D_{KL}$). Lower values signify higher expressibility approaching a unitary 2-design.
 
 ## Sample Data Structure:
 ```csv

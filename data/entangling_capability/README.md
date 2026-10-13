@@ -1,6 +1,6 @@
 # Entangling Capability Datasets (`data/entangling_capability/`)
 
-This directory contains the numerical simulation data for the **Meyer–Wallach entanglement measure (\(\langle Q \rangle\))** used to define the accessible solution space inside the Hilbert space.
+This directory contains the numerical simulation data for the **Meyer–Wallach entanglement measure $\langle Q \rangle$** used to define the accessible solution space inside the Hilbert space.
 
 ## Data Schema & Content
 The files map the capacity of the circuit architectures to generate highly entangled many-body states, which is critical to capturing non-trivial correlations for excited-state chemical predictions.

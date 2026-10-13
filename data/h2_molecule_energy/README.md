@@ -15,8 +15,8 @@ This directory houses the numerical logs targeting the three lowest energy eigen
 
 ## Sample Data Structure:
 ```csv
-trial,w,delta_E,iterations
-1,0.2,4.521e-05,115
-2,0.2,3.134e-05,108
-3,0.2,5.393e-05,124
+Trial,L,energy,cost,iter,w
+0,1,-1.1240243804902923,-0.011240243804902923,63,0.01
+1,1,-1.1249792357860553,-0.011249792357860553,85,0.01
+2,1,-1.1249020082753591,-0.011249020082753592,91,0.01
 ```

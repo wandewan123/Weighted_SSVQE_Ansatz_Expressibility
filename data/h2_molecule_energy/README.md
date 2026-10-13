@@ -9,9 +9,11 @@ This directory houses the numerical logs targeting the three lowest energy eigen
 
 ### Columns Definition:
 * **`trial`**: Stochastic trial index (1 to 30) initialized uniformly from $[0, 2\pi]$.
+* **`L`**: The parameterized quantum circuit (PQC) depth / number of repeated layers ($L \in \{1, 2, 3, 4, 5\}$  ).
+* **`energy`**: The computed molecular energy value (in Hartree, Ha) achieved after the sirkuit optimization successfully reaches convergence.
+* **`cost`**: The final scalar value of the Weighted SSVQE cost function evaluated at the point of convergence.
+* **`iter`**: The number of minimization steps required to satisfy the convergence tolerance criterion.
 * **`w`**: The active weight parameter in the cost function ($w \in [0.0, 1.0]$).
-* **`delta_E`**: The absolute energy accuracy error ($\Delta E = \vert{}E_{VQE} - E_{FCI}\vert{}$). The chemical accuracy threshold is $1.6 × 10^{-3}$ Ha.
-* **`iterations`**: The number of minimization steps required to satisfy the convergence tolerance criterion.
 
 ## Sample Data Structure:
 ```csv

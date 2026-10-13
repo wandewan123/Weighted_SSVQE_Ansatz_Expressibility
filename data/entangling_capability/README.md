@@ -8,7 +8,7 @@ The files map the capacity of the circuit architectures to generate highly entan
 ### Columns Definition:
 * **`trial`**: The independent stochastic calculation run index (1 to 30).
 * **`L`**: The specific ansatz circuit layer configuration (L = 1, 2, 3, 4, 5).
-* **`KL`**: The computed Meyer–Wallach entanglement value (the right label is **'Q'**), bounded in the interval \([0.0, 1.0]\). A value of `0.0` represents completely separable product states (e.g., Ansatz ID-01).
+* **`KL`**: The computed Meyer–Wallach entanglement value (the right label is **`Q`**), bounded in the interval \([0.0, 1.0]\). A value of `0.0` represents completely separable product states (e.g., Ansatz ID-01).
 
 ## Sample Data Structure:
 ```csv

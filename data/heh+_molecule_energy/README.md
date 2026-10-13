@@ -3,9 +3,9 @@
 This folder contains the verification data for the heteronuclear **Helium Hydride molecular ion (HeH⁺)**, evaluating the algorithmic generalizability and physical symmetry conservation of the Weighted SSVQE framework.
 
 ## Computational Settings
-* **Interatomic Distance (\(R_{eq}\))**: 1.74 a.u.
+* **Interatomic Distance ($R_{eq}$)**: 1.74 a.u.
 * **Basis Set**: STO-6G (4-qubit representation).
-* **Exact FCI Target Energy**: Ground state mapped at the second excited index (k = 2, E₂ = -2.894941 Ha).
+* **Exact FCI Target Energy**: Ground state mapped at the second excited index ($k = 2$, $E_{2}$ = -2.894941 Ha).
 
 ### Columns Definition:
 * **`trial`**: Run index over 30 independent trials using the Adam or COBYLA optimizer.

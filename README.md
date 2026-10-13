@@ -1,4 +1,8 @@
 # Datasets for: Ansatz-Dependent Role of Weighting Factors in Weighted SSVQE
+![Paper Status]([suspicious link removed])
+![Python]([suspicious link removed])
+![Framework]([suspicious link removed])
+![License]([suspicious link removed])
 
 This repository contains the numerical datasets and simulation logs supporting the manuscript:
 > **Ansatz-Dependent Role of Weighting Factors in the Weighted Subspace-Search Variational Quantum Eigensolver**

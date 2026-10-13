@@ -2,7 +2,7 @@
 
 This repository contains the numerical datasets and simulation logs supporting the manuscript:
 > **Ansatz-Dependent Role of Weighting Factors in the Weighted Subspace-Search Variational Quantum Eigensolver**
-> **Dewan J. T. R. Tamsih, A. Abdurrouf, Gagus K. Sunnardianto, and Yanoar P. Sarwono**
+> **Dewan J. T. R. Tamsih, A. Abdurrouf, Gagus K. Sunnardianto, and Yanoar P. Sarwono\**
 
 ---
 ## 📂 Data Directory Structure
